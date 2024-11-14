@@ -29,12 +29,13 @@ The main goal of this project is to train a model that can accurately classify m
 
 Each model's accuracy and performance on the test set are evaluated to identify the most effective model for this classification task.
 
-## Dataset
-
+Dataset
 The dataset consists of images divided into training, validation, and test directories, each containing three classes:
-- `Healthy`
-- `Type1disease`
-- `Type2disease`
+
+Healthy
+Type1disease
+Type2disease
+You can download the dataset from the following link: Dataset Download
 
 ### Directory Structure
 
