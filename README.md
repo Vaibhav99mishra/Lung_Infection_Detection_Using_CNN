@@ -1,8 +1,6 @@
 # Lung_Infection_Detection_Using_CNN
 
 
-# Image Classification Project with CNNs and Transfer Learning
-
 This project implements a multi-class image classification model using Convolutional Neural Networks (CNNs) and Transfer Learning with TensorFlow and Keras. The objective is to classify images into three classes: `Healthy`, `Type1disease`, and `Type2disease`. This project follows a series of model-building steps, starting from a basic CNN model, adding data augmentation, and then using transfer learning with pre-trained models (MobileNetV2 and DenseNet121).
 
 ## Table of Contents
